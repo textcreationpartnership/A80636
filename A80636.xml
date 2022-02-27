@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spirituall milk for Boston babes in either England. Drawn out of the breasts of both Testaments, for their soules nourishment: but may be of like use for any children. / By John Cotton, B.D. and teacher to the church of Boston in New-England.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80636</idno>
+            <idno type="STC">Wing C6462A</idno>
+            <idno type="STC">ESTC R233982</idno>
+            <idno type="EEBO-CITATION">47682878</idno>
+            <idno type="OCLC">ocm 47682878</idno>
+            <idno type="VID">172832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172832)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2652:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spirituall milk for Boston babes in either England. Drawn out of the breasts of both Testaments, for their soules nourishment: but may be of like use for any children. / By John Cotton, B.D. and teacher to the church of Boston in New-England.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Cripps ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of original in: Christ College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Catechisms.</term>
+               <term>Catechisms, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172832:1"/>
+            <pb facs="tcp:172832:1"/>
+            <p>Spirituall MILK FOR BOSTON BABES in either <hi>England.</hi>
+            </p>
+            <p>Drawn out of the Breaſts of both TESTAMENTS, for their ſoules nouriſhment: But may be of like uſe for any Children.</p>
+            <p>By <hi>JOHN COTTON</hi> B. D. and Teacher to the Church of <hi>Boſton</hi> in <hi>New-England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Cripps,</hi> in <hi>Popes-head-Alley.</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:172832:2"/>
+            <pb n="1" facs="tcp:172832:2"/>
+            <head>MILK FOR BABES.</head>
+            <p>
+               <label>Q.</label> WHat hath <hi>GOD</hi> done for you?</p>
+            <p>
+               <label>A.</label> God hath made me,<note n="a" place="margin">Pſal. 119.73. Pſal. 120.4, 5, 6, 7, 8. Iſa 63.1.</note> He keepeth me, and he can ſave me.</p>
+            <p>
+               <label>Q.</label> Who is God?</p>
+            <p>A. God is a ſpirit of<note n="b" place="margin">Jo. 4.24. Exo. 3.14.</note> himſelf, and for himſelf.</p>
+            <p>
+               <label>Q.</label> How many Gods be there?</p>
+            <p>A. There is but one God in three Perſons,<note n="c" place="margin">1 Cor. 8.6. 1 Joh. 5.7.</note> the Father, the Son, and the Holy Ghoſt.</p>
+            <p>
+               <label>Q.</label> How did God make you?</p>
+            <p>A. In my firſt parents<note n="d" place="margin">Gen. 1.26, 27. Eccleſ. 7.29.</note> holy and righteous.</p>
+            <p>
+               <label>Q.</label> Are you then born holy and righ<g ref="char:EOLhyphen"/>teous?</p>
+            <p>
+               <label>A.</label> No, my firſt Father<note n="e" place="margin">Iſa. 43.27. Ro. 11.10.</note> ſinned and I in him.</p>
+            <p>
+               <pb n="2" facs="tcp:172832:3"/>
+               <label>Q.</label> Are you then born a ſinner?</p>
+            <p>
+               <label>A.</label> I was conceived in ſinne, and<note n="f" place="margin">Pſ. 51 5.</note> born in iniquity.</p>
+            <p>
+               <label>Q.</label> What is your birth-ſin?</p>
+            <p>
+               <label>Anſw.</label> 
+               <hi>Adams</hi> ſinne imputed to me<note n="g" place="margin">Rom. 5.12, 13, 14. Ep. 14.12.</note> and a corrupt nature dwelling in me.</p>
+            <p>
+               <label>Q</label> What is your corrupt nature?</p>
+            <p>
+               <label>Anſw.</label> My corrupt nature is empty of<note n="h" place="margin">Rom 7.18. Gen. 6.5.</note> Grace, bent unto ſinne, and onely unto ſinne, and that continu<g ref="char:EOLhyphen"/>ally.</p>
+            <p>
+               <label>Qu.</label> What is ſin?</p>
+            <p>
+               <label>A.</label> Sin is the<note n="i" place="margin">1 Joh. 3.4.</note> tranſgreſſion of the Law.</p>
+            <p>
+               <label>Q.</label> How many Commandements of the Law be there?</p>
+            <p>A.<note n="k" place="margin">Deut. 4.13.</note> Ten.</p>
+            <p>
+               <label>Q.</label> What is the firſt Commandement?</p>
+            <p>
+               <label>A.</label> Thou ſhalt have no other Gods but<note n="l" place="margin">Exo. 20.3.</note> me.</p>
+            <p>
+               <label>Q.</label> What is the meaning of this Com<g ref="char:EOLhyphen"/>mandement?</p>
+            <p>
+               <label>Anſw.</label> That we ſhould<note n="m" place="margin">Math. 4.10.</note> worſhip the onely true God, and no other be<g ref="char:EOLhyphen"/>ſide him.</p>
+            <p>
+               <label>Q.</label> What is the ſecond Commandement?</p>
+            <p>
+               <label>A.</label> Thou ſhalt not make to thy ſelfe any graven image,<note place="margin">Exo. 20.4, 5.</note> &amp;c.</p>
+            <p>
+               <pb n="3" facs="tcp:172832:3"/>
+               <label>Q.</label> What is the meaning of this Com<g ref="char:EOLhyphen"/>mandement?</p>
+            <p>
+               <label>Anſw.</label> That we ſhould worſhip the true<note n="o" place="margin">Job 4.24 Deu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12.32 Mat. 15 9</note> God with true worſhip; ſuch as God hath ordained, not ſuch as man hath invented.</p>
+            <p>
+               <label>Q.</label> What is the third Commandement?</p>
+            <p>A. Thou ſhalt not take the name of the Lord thy God in vain, &amp;c.</p>
+            <p>
+               <label>Q.</label> What is here meant by the Name of God?</p>
+            <p>A. God<note n="p" place="margin">Deut. 28.58. Ex. 33.19. with 34.6. 1 Kin 9.3. Pſa. 1.8 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Job 1 21.</note> himſelfe and the good things of God, whereby he is known as a man by his Name, as his Attributes, worſhip, word, and works.</p>
+            <p>
+               <label>Q.</label> What is it not to take his Name in vain?</p>
+            <p>
+               <label>Anſ.</label> To make uſe of god, and the good things of God, to his glory, and our<note n="q" place="margin">2 Kings <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3. Lev<g ref="char:punc">▪</g> 20.3. Job 36.24. 1 Cor. 10.31<g ref="char:punc">▪</g> Job 5.27. Deut. 8.16 Jer 2.30. Lev. 16 2. Heb. 4.2.</note> good, not vainly, not unreve<g ref="char:EOLhyphen"/>rently, not unprofitably.</p>
+            <p>
+               <label>Qu.</label> What is the fourth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>A.</label> Remember that thou keep holy the<note n="r" place="margin">Exod. 20.8, 9, 10, 11.</note> Sabbath day, &amp;c.</p>
+            <p>
+               <label>Q.</label> What is the meaning of this Com<g ref="char:EOLhyphen"/>mandement?</p>
+            <p>A. That we ſhould reſt from labour
+<pb n="4" facs="tcp:172832:4"/>and much more from play on<note n="s" place="margin">Iſa. 58.12, 13. Exod. 32.6.</note> the Lords day, that we may draw nigh to God in holy duties.</p>
+            <p>
+               <label>Queſt.</label> What is the fifth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>Anſw.</label> Honour thy Father and thy Mother,<note n="t" place="margin">Exo. 20.12.</note> that thy dayes may be long in the land, which the Lord thy God giveth thee.</p>
+            <p>
+               <label>Queſt.</label> Who are here meant by father and mother?</p>
+            <p>
+               <label>Anſw.</label> All our Superiours, whether in<note n="u" place="margin">Pro. 23.22. 1 Kings 5.13. and 2.12. 1 Cor. 4.15. 2 Chron. 29.18. 1 Tim. 5.1. 1 Sa. 25 8. Gen. 4. 20, 2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Family, School, Church, and Common-wealth.</p>
+            <p>
+               <label>Queſt.</label> What is the honour due to them?</p>
+            <p>
+               <label>Anſw.</label> Reverence,<note n="w" place="margin">Mal. 16. Heb 12.9. Eph. 6.1. 1 Tim. 5.4.</note> obedience, and (when I am able,) Recom<g ref="char:EOLhyphen"/>pence.</p>
+            <p>
+               <label>Queſt.</label> What is the ſixth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt do no<note n="x" place="margin">Exo. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.13.</note> mur<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <label>Q.</label> What is the meaning of this Com<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>Anſw.</label> That we ſhould not ſhor<g ref="char:EOLhyphen"/>ten the<note n="y" place="margin">Mat. 5.22. 2 Cor. 7.10. 1 Sam. 26.24. Mark. 3 4.</note> life, or health of our ſelves or others, but preſerve both.</p>
+            <p>
+               <pb n="5" facs="tcp:172832:4"/>
+               <label>Q.</label> What is the ſeventh Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not commit<note n="z" place="margin">Exo. 20 14.</note> Adultery.</p>
+            <p>
+               <label>Queſt.</label> What is the ſinne here for<g ref="char:EOLhyphen"/>bidden?</p>
+            <p>
+               <label>Anſw.</label> To defile our ſelves, or others<note n="a" place="margin">Gen. 9. Lev. 10.24.</note> with unclean luſts.</p>
+            <p>
+               <label>Queſt.</label> What is the duty here com<g ref="char:EOLhyphen"/>manded?</p>
+            <p>
+               <label>Anſw.</label> Chaſtity, to poſſeſſe<note n="b" place="margin">Tit. 2.5. 1 Pet. 3.2. 1 Theſ. 4.4, 5.</note> our veſſells in holineſſe and honour.</p>
+            <p>
+               <label>Queſt.</label> What is the eighth Comman<g ref="char:EOLhyphen"/>dement?</p>
+            <p>
+               <label>Anſw.</label> Thou ſhalt not<note n="c" place="margin">Exo. 20.15.</note> ſteal.</p>
+            <p>
+               <label>Queſt.</label> What is the ſtealth here for<g ref="char:EOLhyphen"/>bidden?</p>
+            <p>
+               <label>Anſw.</label> To take away<note n="d" place="margin">Luke 19.8. 1 Theſ. 4.6. Prov. 21.20.</note> another mans goods, without his leave, or to ſpend our own without benefit to our ſelves or others.</p>
+            <p>
+               <label>Queſt.</label> What is the duty here com<g ref="char:EOLhyphen"/>manded?</p>
+            <p>
+               <label>Anſw.</label> To get our goods<note n="e" place="margin">Prov. 13.11. John 6.12. Luke 19.16. &amp; 15.13.</note> ho<g ref="char:EOLhyphen"/>neſtly, to keep them ſafely, and to ſpend them thriftily.</p>
+            <p>
+               <label>Queſt.</label> What is the ninth Comman<g ref="char:EOLhyphen"/>dement?</p>
+            <p>
+               <pb n="6" facs="tcp:172832:5"/>
+               <label>A.</label> Thou<note n="f" place="margin">Exo. 20.16.</note> ſhalt not beare falſe witneſſe againſt thy Neighbour.</p>
+            <p>
+               <label>Queſt.</label> What is the ſinne here for<g ref="char:EOLhyphen"/>bidden?</p>
+            <p>
+               <label>Anſw.</label> To<note n="g" place="margin">Ep. 4.25. Jer. 9.4, 5. Joſh 9.22. Prov. 13.7.</note> lie falſly, to thinke or ſpeak untruly of our ſelves or o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>
+               <label>Queſt.</label> What is the duty here requi<g ref="char:EOLhyphen"/>red?</p>
+            <p>
+               <label>A.</label> Truth<note n="h" place="margin">Eph. 4 25 Mat. 23.23. Ex. 20.17. Rom 7.7. Heb. 13.5.</note> and faithfulneſſe.</p>
+            <p>
+               <label>Queſt.</label> What is the tenth Commande<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label>A.</label> Thou ſhalt not covet, &amp;c.</p>
+            <p>
+               <label>Queſt.</label> What is the coveting here for<g ref="char:EOLhyphen"/>bidden?</p>
+            <p>
+               <label>Anſw.</label> Luſt after the things of other men; and want of contentment with our own.</p>
+            <p>
+               <label>Qu.</label> Whether have you kept all theſe Commandements?</p>
+            <p>
+               <label>Anſw.</label>
+               <note n="l" place="margin">Ro<g ref="char:punc">▪</g> 7.14. &amp; 3.23.</note> No, I and all men are ſinners.</p>
+            <p>
+               <label>Queſt.</label> What is the wages of ſin?</p>
+            <p>
+               <label>Anſw.</label>
+               <note n="m" place="margin">Jo 6.23. &amp; 2.8, 9.</note> Death and damnation.</p>
+            <p>
+               <label>Queſt.</label> How look you then to be ſa<g ref="char:EOLhyphen"/>ved?</p>
+            <p>
+               <label>Anſw.</label>
+               <note n="n" place="margin">Acts 4.12.</note> Onely by Jeſus Chriſt.</p>
+            <p>
+               <label>Queſt.</label> Who is Jeſus Chriſt?</p>
+            <p>
+               <pb n="7" facs="tcp:172832:5"/>
+               <label>A.</label> The eternall Son of God, who for our ſakes<note n="o" place="margin">1 Joh. 3.22. Pro. 8.23, 24, 25. Joh. 1.14. 2 Cor. 8.9. Luke 1.68, 69. and 2.11.</note> became man, that he might redeem and ſave us.</p>
+            <p>
+               <label>Q.</label> How doth Chriſt redeem and ſave us?</p>
+            <p>
+               <label>A.</label> By his righteous life, and bitter death, and glorious reſurrection to life<note n="p" place="margin">Gal. 4.4, 5. Mat. 20.28. Phil. 2.7, 8. Rom. 4.25.</note> again.</p>
+            <p>
+               <label>Q.</label> How doe we come to have part and fellowſhip with Chriſt in his death and Reſurrection?</p>
+            <p>
+               <label>A.</label> By the power of his<note n="q" place="margin">John 17.20, 21. 2 Cor. 5.20. 1 Cor. 6.17</note> Word and Spirit, which brings us to Chriſt and keeps us in him.</p>
+            <p>
+               <label>Q.</label> What is his Word?</p>
+            <p>
+               <label>A.</label> The<note n="r" place="margin">2 Tim. 3.15, 16.</note> Holy Scriptures of the Prophets and Apoſtles, the Old and New Teſtament, Law and Goſ<g ref="char:EOLhyphen"/>pell.</p>
+            <p>
+               <label>Q.</label> How doth the Miniſtery of the Law bring you toward Chriſt?</p>
+            <p>
+               <label>A.</label> By bringing me to know my ſin, and the wrath of God againſt me for it.<note place="margin">Rom. 3 20. Gal. 3.10.24. Ro. 7, 9, 10.</note>
+            </p>
+            <p>
+               <label>Q.</label> What are you thereby the neerer to Chriſt?</p>
+            <p>
+               <label>A.</label> So I come to feele my curſed e<g ref="char:EOLhyphen"/>ſtate, and need of a Saviour.</p>
+            <p>
+               <pb n="8" facs="tcp:172832:6"/>
+               <label>Queſt.</label> How doth the Miniſtery of the Goſpell help you in this curſed E<g ref="char:EOLhyphen"/>ſtate?</p>
+            <p>
+               <label>Anſw.</label> By humbling me<note n="u" place="margin">Luke 3.4, 5, 6.</note> yet more, and then raiſing me up out of this Eſtate.</p>
+            <p>
+               <label>Queſt.</label> How doth the Miniſtery of the Goſpell humble you more?</p>
+            <p>
+               <label>Anſw.</label> By revealing the<note n="w" place="margin">2 Tim. 1.10. 1 Tim. 1.15. John 16.7.9. &amp; 6.44. Lu. 19 10.</note> grace of the Lord Jeſus, in dying to ſave ſinners: and yet convincing me of my ſinne, in not believing on him, and of my utter inſufficiency to come to him; and ſo I feel my ſelf utterly loſt.</p>
+            <p>
+               <label>Queſt.</label> How then doth the Mi<g ref="char:EOLhyphen"/>nisterie of the Goſpell raiſe you up out of this lost eſtate to come unto Chriſt.</p>
+            <p>
+               <label>Anſw.</label> By<note n="x" place="margin">John 12.31. 2 Cor. 5.19, 20. Cant. 5.10. to 16. with 6.1. 2 Cor. 3.28. Lu. 19.10. Mat. 9.13. Gal. 3.5. Rom. 10.17. with <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.61.</note> teaching me the va<g ref="char:EOLhyphen"/>lue and the vertue of the death of Chriſt, and the riches of the grace to loſt ſinners: By revealing the promiſe of grace to ſuch, and by miniſtring the Spirit of grace, to apply Chriſt, and his promiſe of grace unto my ſelf, and to keep me in him.</p>
+            <p>
+               <label>Qu.</label> How doth the Spirit of grace ap<g ref="char:EOLhyphen"/>ply
+<pb n="9" facs="tcp:172832:6" rendition="simple:additions"/>Chriſt, and his promiſe of grace unto you, and keep you in him?</p>
+            <p>
+               <label>Anſw.</label> By begetting in me<note n="y" place="margin">Rom. 10.17. &amp; 10 14. Zach. 12.10. Rom. 16.25, 26. 2 Cor. 10.4, 5.</note> faith to receive him: Prayer to call upon him: Repentance to mourn after him, and new obedience to ſerve him.</p>
+            <p>
+               <label>Queſt.</label> What is faith?</p>
+            <p>
+               <label>Anſw.</label> Faith is a grace of<note n="z" place="margin">Phil. 1.29. 2 Cor. 4.13. Phil. 3.8, 9.</note> the Spirit; whereby I deny my ſelf, and be<g ref="char:EOLhyphen"/>lieve on Chriſts righteouſneſſe and ſal<g ref="char:EOLhyphen"/>vation.</p>
+            <p>
+               <label>Queſt.</label> What is Prayer?</p>
+            <p>
+               <label>Anſw.</label> It is calling upon<note n="a" place="margin">Mat. 6.9. John 16.23. Rom. 8.26, 27. John 5 14.</note> God in the name of Chriſt, by the help of the Holy Ghoſt, according to the will of God.</p>
+            <p>
+               <label>Queſt.</label> What is Repentance?</p>
+            <p>
+               <label>Anſw.</label> Repentance is a<note n="b" place="margin">Acts 5.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. Zach. 12.10. Eze. 6.9. Job 42.6. 2 Sam. 24.10. Lev 26.40, 41. Prov. 28.13. Zac. 12.10. 1 Sam. 7.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> grace of the Spirit, whereby I loath my ſinnes, and my ſelfe for them, and confeſſe them before the Lord, and mourne after Chriſt for the pardon of them, and for grace to ſerve him in newneſſe of life.</p>
+            <p>
+               <label>Queſt.</label> What is newneſſe of life, or new obedience?</p>
+            <p>
+               <label>Anſw.</label> Newneſſe of life is a<note n="c" place="margin">Pſal. 51.1, 2.10.</note> grace of the Spirit, whereby I forſake my
+<pb n="10" facs="tcp:172832:7"/>former luſts and vaine company,<note place="margin">Rom. 7.6. 1 Pet. 4.2, 3, 4. Pſal. 116.9. &amp; 119.9.105.115. Pſal. 16.3.</note> and walk before the Lord in the light of his word, and in the communion of his Saints.</p>
+            <p>
+               <label>Queſt.</label> What is the Communion of Saints?</p>
+            <p>
+               <label>A.</label> It is<note n="d" place="margin">1 Cor. 1.2. Phil. 1.5. Acts 2.47. Rom. 9.4. 1 Cor. 12.13.</note> the fellowſhip of the Church in the Bleſſings of the Cove<g ref="char:EOLhyphen"/>nant of Grace, and the ſeals thereof.</p>
+            <p>
+               <label>Q.</label> What is the Church?</p>
+            <p>A. It is a Congregation of<note n="e" place="margin">Pſal. 89.5. &amp; 50.5.16. Ezek. 20.37. Acts 2.42. 1 Cor. 14.23, 26.</note> Saints joyned together in the bond of the Covenant, to worſhip the Lord and to edifie one another, in all his holy Ordinances.</p>
+            <p>
+               <label>Q.</label> What is the bond of the Covenant, in which the Church is joyned together?</p>
+            <p>A. It is<note n="f" place="margin">2 Cor. 8.5. &amp; 9.13. Gen. 17.7.</note> the profeſſion of that Covenant, which God hath made with his faithfull people, to be a God unto them and to their ſeed.</p>
+            <p>
+               <label>Q.</label> What doth the Lord bind his peo<g ref="char:EOLhyphen"/>ple to in this Covenant?</p>
+            <p>A. To<note n="g" place="margin">Joſh. 24.15.21, 24, 25. 2 Cor. 8 5. Eph. 5.21. Neh. 9.38. with 10.28, 29. to 34.</note> give up themſelves and their ſeed, firſt to the Lord to be his people, and then to the Elders and brethren of the Church, to ſet forward the worſhip of God, and the mutuall edification.</p>
+            <p>
+               <pb n="11" facs="tcp:172832:7"/>
+               <label>Q.</label> How doe they give up themſelves and their ſeed to the Lord?</p>
+            <p>A. By receiving through<note n="h" place="margin">Joh. 1.12. Gen. 17.9, 10. Iſa. 56.6, 7. Gen. 18.19.</note> faith the Lord and his Covenant, to them<g ref="char:EOLhyphen"/>ſelves, and to their ſeed: And accor<g ref="char:EOLhyphen"/>dingly walking themſelves, and trai<g ref="char:EOLhyphen"/>ning up their children in the wayes of his Covenant.</p>
+            <p>
+               <label>Q.</label> How doe they give up themſelves and their ſeed to the Elders and Brethren of the Church?</p>
+            <p>A. By confeſſion of<note n="i" place="margin">Mat. 3.6. 2 Cor. 9.13. Acts 2.38, 39.</note> their ſinnes, and profeſſion of their faith, and of their ſubjection to the Goſpell of Chriſt. And ſo they and their ſeed are received into fellowſhip of the Church and the ſeals thereof.</p>
+            <p>
+               <label>Q.</label> What are the ſeals of the Cove<g ref="char:EOLhyphen"/>nant now in the dayes of the Goſpell?</p>
+            <p>A. Baptiſme<note n="k" place="margin">Rom. 4.11. with Col. 2.11, 12. 1 Cor. 11.25. Heb. 10.22. &amp; 12.24. Joh. 3.5. Rom. 6.2, 3. Acts 22.16 Luke 3.3. 1 Pet. 3.20, 21. 1 Cor. 15.29.</note> and the Lords Supper.</p>
+            <p>
+               <label>Q.</label> What is done for you in Baptiſme?</p>
+            <p>
+               <label>Anſw.</label> In Baptiſme the waſhing with water is a ſigne and ſeale of my waſhing with the bloud and ſpirit of Chriſt, and thereby of my ingrafting into Chriſt: of the pardon and clean<g ref="char:EOLhyphen"/>ſing of my ſinnes: of my riſing up
+<pb n="12" facs="tcp:172832:8"/>out of affliction: and alſo of my Re<g ref="char:EOLhyphen"/>ſurrection from the death at the laſt day.</p>
+            <p>
+               <label>Queſt.</label> What is done for you in the Lords Supper?</p>
+            <p>
+               <label>Anſw.</label> In the Lords Supper the re<g ref="char:EOLhyphen"/>ceiving of the bread broken, and the<note n="m" place="margin">1 Cor. 10.16. Matth. 26.26.28. 1 Cor. 12.13. Pſ. 104.15. Joh. 6 55. Luke 22.27, 29, 30.</note> win<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> powered out, is a ſigne and ſeal of my receiving the Communion of the body of Chriſt broken for me, and of his blood ſhed for me, And thereby of my growth in Chriſt, of the pardon and healing of my ſins; of the fellowſhip of his Spirit; of my ſtreng<g ref="char:EOLhyphen"/>thening and quickning in Grace: and of my ſitting together with Chriſt on his Throne of Glory at the laſt judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <label>Queſt.</label> What is the Reſurrection from the dead, which was ſealed up to you in Baptiſm?</p>
+            <p>
+               <label>Anſw.</label> When <hi>(n)</hi> Chriſt ſhall come to his laſt Judgement,<note n="a" place="margin">John 5.28, 29. Act. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.15.</note> all that are in the graves ſhall ariſe again, both the juſt and unjuſt.</p>
+            <p>
+               <label>Queſt.</label> What is the laſt Judgement, which is ſealed up to you in the Lords Supper?</p>
+            <p>
+               <pb n="13" facs="tcp:172832:8"/>
+               <label>A.</label> At the laſt<note n="o" place="margin">2 Cor. 5.10. Mat. 12.36 1 Cor. 4.5. Eccl. 12.14</note> day we ſhall all appear before the judgement-ſeat of Chriſt, to give an account of our works, and to receive our reward ac<g ref="char:EOLhyphen"/>cording to them.</p>
+            <p>
+               <label>Queſt.</label> What is the reward that ſhall then be given?</p>
+            <p>
+               <label>Anſw.</label> The<note n="p" place="margin">Mat. 25.34. Mat. 25.46.</note> righteous ſhall go into life eternall, and the wicked ſhall be caſt into everlaſting fire with the Devill and his Angells.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
